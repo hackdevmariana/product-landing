@@ -10,6 +10,7 @@ export default defineNuxtConfig({
     '@nuxt/scripts',
     '@nuxt/test-utils',
     '@nuxt/ui',
-    '@nuxt/icon'
+    '@nuxt/icon',
+    '@sidebase/nuxt-auth'
   ]
 })
